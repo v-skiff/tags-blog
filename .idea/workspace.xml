@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="110fb5a9-c792-4ff9-bc2a-21afcd1619a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YTwoKMdLrK8Byucsl0Zk96IupH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mele_env" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="110fb5a9-c792-4ff9-bc2a-21afcd1619a5" name="Default Changelist" comment="" />
+      <created>1582980066209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582980066209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="811" y="391" width="426" height="479" key="FileChooserDialogImpl" timestamp="1582980205889">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="811" y="391" width="426" height="479" key="FileChooserDialogImpl/0.0.1920.1052@0.0.1920.1052" timestamp="1582980205889" />
+    <state x="464" y="161" key="SettingsEditor" timestamp="1582980220526">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="464" y="161" key="SettingsEditor/0.0.1920.1052@0.0.1920.1052" timestamp="1582980220526" />
+    <state x="272" y="74" key="com.intellij.ide.util.TipDialog" timestamp="1582980118875">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="272" y="74" key="com.intellij.ide.util.TipDialog/0.0.1920.1052@0.0.1920.1052" timestamp="1582980118875" />
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1582980888832">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1920.1052@0.0.1920.1052" timestamp="1582980888832" />
+  </component>
+</project>
